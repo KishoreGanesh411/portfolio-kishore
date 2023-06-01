@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,600&family=Montserrat:wght@300;600&family=Peralta&display=swap');
+
+
+
+.skillContainer{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+}
+
+
+
+.skillContainer__image{
+    image-resolution: 200px;
+    display: flex;
+    /* flex: 0.6; */
+    /* justify-content: space-evenly; */
+    /* align-items: left; */
+    /* object-fit: cover; */
+/* width: 10%; */
+height: 250px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 200px 0;
+
+}
+
+
+
